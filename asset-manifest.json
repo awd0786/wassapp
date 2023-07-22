@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wassapp/static/css/main.e6c13ad2.css",
+    "main.js": "/wassapp/static/js/main.c7914e01.js",
+    "static/js/787.a25c7d63.chunk.js": "/wassapp/static/js/787.a25c7d63.chunk.js",
+    "index.html": "/wassapp/index.html",
+    "main.e6c13ad2.css.map": "/wassapp/static/css/main.e6c13ad2.css.map",
+    "main.c7914e01.js.map": "/wassapp/static/js/main.c7914e01.js.map",
+    "787.a25c7d63.chunk.js.map": "/wassapp/static/js/787.a25c7d63.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.c7914e01.js"
+  ]
+}
